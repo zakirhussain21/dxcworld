@@ -7,8 +7,7 @@
              <title>My Awesome Site</title>
 </head>
 <body>
-          <h1>Git world</h1>
-          <h2>git Demo</h2>
+          <h1>Gitworld</h1>
 </body>
 </html>
 
